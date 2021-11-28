@@ -1,0 +1,24 @@
+Comandos :
+
+
+git config --global user.email "pm908819@gmail.com"
+
+git config --global user.name "krao123416"
+
+git init
+
+git add *
+
+git commit -m "Iniciando... ConfuMods UwU"
+
+git remote ###### (mira el video para saber donde encontrarlo)
+
+git push origin master
+
+Tu nombre de usuario
+
+Tu token (Mira el video de ConfuMods para saber dónde encontrarlo)
+
+LISTO!
+
+ConfuMods: Toda persona que desee subir este metodo a YouTube debe dejar créditos 👌👁️👁️
